@@ -1,0 +1,16 @@
+{
+ "PHP_VERSION": "{PHP_71}",
+ "COMPOSER_VENDOR_DIR": "quickstart-basic/vendor",
+ "WEBDIR": "quickstart-basic/public",
+ "PHP_EXTENSIONS": [
+  "bz2",
+  "zlib",
+  "openssl",
+  "fpm",
+  "tokenizer",
+  "curl",
+  "mcrypt",
+  "mbstring",
+  "pdo"
+ ]
+}
